@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "username": "john.doe",
+    "password": "dummy@123",
+    "age": 25,
+    "about": "Passionate about technology.",
+    "areaOfInterests": ["technology", "science"],
+    "type": "professional",
+    "professionalDetails": {
+      "experience": 5,
+      "expertise": "front-end",
+      "role": "Web Developer"
+    }
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "username": "alice.smith",
+    "password": "dummy@123",
+    "age": 22,
+    "about": "Student exploring various fields.",
+    "areaOfInterests": ["mathematics", "physics"],
+    "type": "student"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "username": "bob.johnson",
+    "password": "dummy@123",
+    "age": 30,
+    "type": "professional",
+    "professionalDetails": {
+      "experience": 8,
+      "expertise": "back-end",
+      "role": "Senior Software Engineer"
+    }
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Davis",
+    "username": "emma.davis",
+    "password": "dummy@123",
+    "age": 28,
+    "about": "Nature lover and environmental activist.",
+    "areaOfInterests": ["environment", "biology"],
+    "type": "professional",
+    "professionalDetails": {
+      "experience": 10,
+      "expertise": "environmental science",
+      "role": "Environmental Scientist"
+    }
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "username": "charlie.brown",
+    "password": "dummy@123",
+    "age": 21,
+    "about": "Aspiring artist and cartoonist.",
+    "areaOfInterests": ["art", "cartooning"],
+    "type": "student"
+  }
+]
